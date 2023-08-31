@@ -20,12 +20,15 @@
 <a href="https://instagram.com/beast.sharmajii?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Chetan559" height="30" width="40" /></a>
 
 </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chetan559&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chetan559&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+<!-- <img src="https://raw.githubusercontent.com/Chetan559/Chetan559/output/snake.svg" alt="Snake animation" /> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chetan559&show_icons=true&locale=en&layout=compact" alt="Chetan559" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chetan559&show_icons=true&locale=en" alt="Chetan559" /></p>
-
+<div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chetan559&" alt="Chetan559" /></p>
+</div>
 <br>
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"></p>
 <h3 align="left">Support:</h3>
