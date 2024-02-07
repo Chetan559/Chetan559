@@ -3,14 +3,10 @@
 <h3 align="center">A passionate Frontend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chetan559&label=Profile%20views&color=0e75b6&style=flat" alt="Chetan559" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chetan559&theme=monokai" alt="Chetan559" /></a> </p>
-
-- 🔭 I’m currently working on [New India Vibrant Hackathon 2023 (5th Edition)](https://chetan559.github.io/SSIP_HACKATHON_2023/Draft2/)
-- 🌱 I’m currently learning **Python , ML & Deep learning**
+- 🔭 I’m currently working on web projects.
+- 🌱 I’m currently learning FullStack Devlopment.
 
 - 📫 How to reach me **cschetan559@gmail.com**
-- 👨‍💻 All of my projects are available at **https://chetan559.github.io/pages/project.html**
-
 <div> <a href="https://www.linkedin.com/in/sharma-chetan-k" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Chetan559" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/beast.sharmajii" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
