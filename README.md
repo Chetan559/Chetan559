@@ -41,5 +41,6 @@
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Chetan559&theme=monokai" alt="Chetan559" /><img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"></p>
 
+<img src="https://raw.githubusercontent.com/Chetan559/Chetan559/output/snake.svg" alt="Snake animation" />
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
