@@ -20,7 +20,7 @@ Hi, I'm [Chetan Sharma](https://chetan559.github.io/), a Software developer 👨
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
 - 📫 How to reach me: [cschetan559@gmail.com](mailto:cschetan559@gmail.com);
-- 🔗 My website: [https://chetan559.github.io/](https://chetan559.github.io/)
+- 🔗 My website: [chetansharma.co](https://chetansharma.co/)
 
  <br>
 
