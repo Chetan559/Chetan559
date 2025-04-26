@@ -75,10 +75,11 @@ Hi, I'm [Chetan Sharma](https://chetan559.github.io/), a Software developer 👨
 </br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chetan559/Chetan559/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chetan559/Chetan559/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Chetan559/Chetan559/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chetan559/Chetan559/output/snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chetan559/Chetan559/output/snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Chetan559/Chetan559/output/snake.svg">
 </picture>
+
 
 <div align="center">
 
